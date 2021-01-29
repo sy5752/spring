@@ -1,0 +1,17 @@
+MYBATIS : 쿼리문 직접 작성 
+JPA : VALUE객체에 저장하면 자동으로 쿼리문을 만들어줌 개발자가 코드에 집중할 수 있음
+구글트렌드에서 전세계적으론 JPA >> MYBATIS
+		  우리나라에선 MYBATIS > JPA
+
+EJB ==> 스프링
+EJB ==> 하이버네이터(MYBATIS)
+
+spring 설정
+
+1.xml
+2.java
+3.java + xml
+** 설정파일을 용도에 따라 여러개로 분리하는 것도 가능
+
+에러 
+compiler 시점 - 로딩(서버 기동)시점- Runtime(실행을 해야만 발생하는 에러)
